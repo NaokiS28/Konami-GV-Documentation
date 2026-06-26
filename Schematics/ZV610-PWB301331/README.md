@@ -1,6 +1,6 @@
-# Konami GV Documention
+# Konami GV/ZV610 Schematics
 
-A (currently skeleton) schematics for the Konami GV arcade main board.
+A (currently skeleton) schematics in KiCad 10.0 format for the Konami GV arcade main board.
 
 The Konami GV could be considered a precursor to the [https://github.com/NaokiS28/Konami-System-573-Docs](Konami System 573), in that is is a Sony PlayStation based arcade board but is much simpler:
 
